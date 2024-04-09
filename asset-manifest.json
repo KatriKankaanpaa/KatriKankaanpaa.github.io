@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9587f88f.css",
+    "main.js": "/static/js/main.39770166.js",
+    "static/js/453.f4fbaa6d.chunk.js": "/static/js/453.f4fbaa6d.chunk.js",
+    "static/media/mäjahaades.jpg": "/static/media/mäjahaades.15e16f8241025c6fd694.jpg",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.9587f88f.css.map": "/static/css/main.9587f88f.css.map",
+    "main.39770166.js.map": "/static/js/main.39770166.js.map",
+    "453.f4fbaa6d.chunk.js.map": "/static/js/453.f4fbaa6d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9587f88f.css",
+    "static/js/main.39770166.js"
+  ]
+}
